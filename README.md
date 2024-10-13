@@ -6,6 +6,13 @@ Mesaman Cap. 1 - Teh startre(actual title)
 
 
 https://github.com/user-attachments/assets/b392b977-dc4c-4760-8009-85e548b68f75
+<select id="example" name="rating">
+  <option value="1">1 Star</option>
+  <option value="2">2 Stars</option>
+  <option value="3">3 Stars</option>
+  <option value="4">4 Stars</option>
+  <option value="5">5 Stars</option>
+</select>
 
 
 
